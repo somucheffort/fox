@@ -1,0 +1,12 @@
+{
+  "name": "@sooomucheffort/fox",
+  "version": "0.3.0.",
+  "description": "A command parser library",
+  "main": "index.js",
+  "repository": "https://github.com/somucheffort/fox.git",
+  "author": "sooomucheffort",
+  "license": "MIT",
+  "dependencies": {
+    "@sooomucheffort/kitsune": "^0.2.2"
+  }
+}
